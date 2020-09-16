@@ -2,7 +2,7 @@
 <head>
 <style>
 body {
-  background-image: url('https://i.imgur.com/NGVDt2k.png');
+  background-image: url('https://i.imgur.com/8fZAlgY.png');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
@@ -12,7 +12,7 @@ body {
 <body>
     <p style="font-size:120%;text-align:center;font-family:arial;color:white"><b>@NotAgezz</b></p>
     <h1 style="font-size:160%;text-align:center;font-family:arial;color:white">About Me</h1>
-    <p style="font-size:120%;font-family:arial;color:white"><b> </b></p>
+    <p style="font-size:120%;font-family:arial;color:white"><b>------------------------------------------------------------------------------------- </b></p>
     <p style="font-size:100%;font-family:arial;color:white"><b> ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌Informacion confidencial de la CIA:</b></p>
     <p style="font-size:100%;font-family:arial;color:white"><b> ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌Nombre: Soy Agez pero me puedes llamar Agez :)</b></p>
     <p style="font-size:100%;font-family:arial;color:white"><b> ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌Edad: 16</b></p>
